@@ -1,0 +1,1 @@
+# iclouddepoy-kubeprojwithnamespace
